@@ -44,8 +44,8 @@
 
 | Модель | Accuracy test | F1-macro test |
 | :--- | :---: | :---: |
-| `DummyClassifier` | `<значення>` | `<значення>` |
-| `DecisionTree` | `<значення>` | `<значення>` |
+| `DummyClassifier` | 0.333 | 0.167 |
+| `DecisionTree` | 0.967 | 0.967 |
 
 * **Файли проєкту:**
   * Ноутбук із моделюванням: [`notebooks/PR03_Musienko_V.ipynb`](notebooks/PR03_Musienko_V.ipynb)
